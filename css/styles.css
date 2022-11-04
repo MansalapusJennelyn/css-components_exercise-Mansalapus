@@ -69,11 +69,15 @@ hr {
 }
 
 button {
+  font-size: 13px;
+  color: white;
   border: none;
   border-radius: 0.3rem;
   box-shadow: 0.3rem 0.3rem 1rem rgba(0, 0, 0, 0.444);
   cursor: pointer;
   display: block;
+  margin: auto;
+  padding: 10px 20px;
 }
 
 .wrapper {
