@@ -38,6 +38,8 @@ p {
   border-radius: 0.7rem;
   box-shadow: 0.3rem 0.3rem 1.5rem rgba(0, 0, 0, 0.15);
   min-width: 25rem;
+  margin: 10px;
+  padding: 10px;
 }
 
 .card-horizontal {
