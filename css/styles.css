@@ -5,6 +5,8 @@ html {
 body {
   font-family: ' Inter ', sans-serif;
   line-height: 1.6;
+  margin: 20px;
+  padding: 20px;
 }
 
 h1 {
