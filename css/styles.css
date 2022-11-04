@@ -46,11 +46,22 @@ p {
   max-width: 32rem;
 }
 
+
 .box {
   width: 100%;
   min-height: 20rem;
   border-radius: 0.7rem;
   box-shadow: 0.3rem 0.3rem 1.5rem rgba(0, 0, 0, 0.15);
+}
+
+.box--wind {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+.box--ice {
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%)
+}
+.box--flame {
+  background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
 }
 
 hr {
